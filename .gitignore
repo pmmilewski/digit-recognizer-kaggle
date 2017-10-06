@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# big files
+test.csv
+train.csv
